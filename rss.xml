@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AllRandomThings]]></title>
+        <description><![CDATA[AllRandomThings]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 22 Nov 2015 10:50:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mark Zuckerberg Will Take Two Months Off From Facebook For Paternity Leave]]></title>
+            <description><![CDATA[<article><h1>Mark Zuckerberg Will Take Two Months Off From Facebook For Paternity Leave</h1><p>Mark Zuckerberg, the face of Facebook since the company's founding back in 2004, will be taking a few months off for paternity leave. News of his time off comes by way of - no surprises here - his Facebook: Priscilla and I are starting to get ready for our daughter's arrival.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/11/beast.jpg?w=1024&h=726"></article>]]></description>
+            <link>http://techcrunch.com/2015/11/20/mark-zuckerberg-will-take-two-months-off-from-facebook-for-paternity-leave/</link>
+            <guid isPermaLink="false">c31c4753-dd40-4e87-be72-2f3243717a59</guid>
+            <pubDate>Sun, 22 Nov 2015 10:50:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
