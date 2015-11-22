@@ -1,0 +1,28 @@
+name: AllRandomThings
+favicon: null
+layout_spectrum: 0.13609332288615406
+typography_spectrum: 0.811299426946789
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.30658455681987107
+  lightness: 0.8959546007681638
+  saturation: 0.47803834988735616
+  rhythmicContrast: 0.9478903370909393
+purpose: []
